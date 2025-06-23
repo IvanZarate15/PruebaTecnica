@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Compiled class file
 *.class
@@ -24,6 +25,8 @@
 hs_err_pid*
 replay_pid*
 =======
+=======
+>>>>>>> 8bf3d0de5a42dbc7684179dc594908254249e473
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -57,4 +60,7 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
  8bf3d0d (Initial commit: Proyecto Tienda Deportiva)
+=======
+>>>>>>> 8bf3d0de5a42dbc7684179dc594908254249e473
